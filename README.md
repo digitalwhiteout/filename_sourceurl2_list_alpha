@@ -23,7 +23,7 @@ Use at your own risk!
 ------------
 made a rule in hazel to set a § before the .filename
 
-
+------------
 cleaning up in libre office
 
 using § as the separator when cmd+c cmd+v into libre office
@@ -36,6 +36,7 @@ use the find/replace command to delete the filename and additional caracters
    
 
 adding links with an new row of =HYPERLINK(D1)
+------------
 
 cmd+ccmd+v first 2columns into textedit 
 
