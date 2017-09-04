@@ -1,11 +1,27 @@
 # filename_sourceurl2_list_alpha
-very experimental automator script that displays the (filename + source url) of a folders content as list
+=========
 
-higly experimental
+translate finder metadata to xml/exif
+
+
+alpha version:
+------------
+very experimental automator script, only semiatautomatic, fully documented, partly tested, no safety!
+
+Use all programmparts and information at your own risk, may corrupt data!
+
+used on mac os 10.9.5
+
+------------
+
 
 based on mdls command 
 
+(you can show all mdls options by typing mdls pathtoexamplefile in the terminal)
+Use at your own risk!
+
 made a rule in hazel to set a § before the .filename
+
 
 cleaning up in libre office
 
