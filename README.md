@@ -6,7 +6,7 @@ translate finder metadata to xml/exif
 
 alpha version:
 ------------
-very experimental automator script, only semiatautomatic, fully documented, partly tested, no safety!
+very experimental automator script, only semiautomatic right now! fully documented, partly tested, no safety!
 
 Use all programmparts and information at your own risk, may corrupt data!
 
