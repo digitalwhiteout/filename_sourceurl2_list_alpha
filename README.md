@@ -34,13 +34,13 @@ use the find/replace command to delete the filename and additional caracters
    )
    
 
-adding clicable links with an new row of =HYPERLINK(D1)
+adding links with an new row of =HYPERLINK(D1)
 
-cmd+ccmd+v first 2 rows into testedit 
+cmd+ccmd+v first 2columns into textedit 
 
 select all
 
-show replacement 
+show autoreplacement 
  
  auto  do links
  
