@@ -36,7 +36,8 @@ use the find/replace command to delete the filename and additional caracters
    
 
 adding links with an new column of =HYPERLINK(D1)
-duplication the cells below
+
+duplicate into the cells below (drag down)
 
 ------------
 
