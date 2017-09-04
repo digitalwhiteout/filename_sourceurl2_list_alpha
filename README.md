@@ -20,6 +20,7 @@ based on mdls command
 (you can show all mdls options by typing mdls pathtoexamplefile in the terminal)
 Use at your own risk!
 
+------------
 made a rule in hazel to set a § before the .filename
 
 
